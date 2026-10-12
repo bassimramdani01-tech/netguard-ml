@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn>=1.4
+xgboost>=2.0
+matplotlib
+seaborn
+imbalanced-learn
+joblib
+shap
+gradio
+tabulate

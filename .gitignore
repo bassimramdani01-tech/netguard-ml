@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data (large, re-downloaded by src/data.py)
+data/*.txt
+data/*.csv
+data/*.arff
+data/*.gz
+
+# Trained artifacts (regenerate with scripts/run_all.py)
+models/*.joblib
+models/*.pkl
+models/*.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

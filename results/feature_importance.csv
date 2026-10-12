@@ -1,0 +1,16 @@
+feature,importance
+service_ecr_i,0.27022094
+flag_SF,0.1903031
+service_http,0.09694573
+src_bytes,0.086056724
+wrong_fragment,0.057016253
+protocol_type_icmp,0.035650466
+hot,0.029623196
+service_IRC,0.018298669
+dst_bytes,0.015881937
+same_srv_rate,0.014667424
+dst_host_same_srv_rate,0.011470263
+logged_in,0.009981933
+count,0.009904449
+service_eco_i,0.008376997
+service_private,0.007881569
